@@ -6,8 +6,9 @@
 
 ## 套接字编程作业
 
-### 第2章 - 应用层
-
+<details>
+  <summary><h3>第2章 - 应用层</h3></summary>
+  
 #### 作业 1：Web服务器 (Page120)
 
 * 官方文档：[Socket1_WebServer.pdf](SocketProgrammingAssignment/作业1-Web服务器/Socket1_WebServer.pdf)
@@ -31,8 +32,11 @@
 - 官方文档：[Socket4_ProxyServer.pdf](SocketProgrammingAssignment/作业4-多线程Web代理服务器/Socket4_ProxyServer.pdf)
 - 翻译：[作业4-多线程Web代理服务器-翻译.md](SocketProgrammingAssignment/作业4-多线程Web代理服务器/作业4-多线程Web代理服务器-翻译.md)
 - 解答：[作业4-多线程Web代理服务器-解答.md](SocketProgrammingAssignment/作业4-多线程Web代理服务器/作业4-多线程Web代理服务器-解答.md)
+</details>
 
-### 第4章 - 网络层
+<details>
+  <summary><h3>第4章 - 网络层</h3></summary>
+
 
 #### 作业5：ICMP ping (Page287)
 
@@ -41,6 +45,8 @@
 - 解答：[作业5-ICMPping程序-解答.md](SocketProgrammingAssignment/作业5-ICMPping程序/作业5-ICMPping程序-解答.md)
 
 ***
+  
+  </details>
 
 ## Wireshark实验
 
