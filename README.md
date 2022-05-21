@@ -54,6 +54,8 @@
 
 **（[CHN-STUDENT](https://github.com/chn-student)注：实验结果仅对当次抓包结果有效，仅供参考，如有问题，欢迎讨论。）**
 
+❗注意如果重复抓取的话请求会带上 `If-Modified-Since`，返回 304，所以一定注意清除缓存
+
 #### Wireshark实验：入门 (Page52)
 
 * 官方文档第六版：[Wireshark_Intro_v6.0.pdf](WiresharkLab/Wireshark实验-Intro/Wireshark_Intro_v6.0.pdf)
