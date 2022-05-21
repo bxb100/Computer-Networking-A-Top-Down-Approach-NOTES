@@ -68,6 +68,7 @@
 * 官方文档第六版：[Wireshark_HTTP_v6.1.pdf](WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v6.1.pdf)
 * 官方文档第七版：[Wireshark_HTTP_v7.0.pdf](WiresharkLab/Wireshark实验-HTTP/Wireshark_HTTP_v7.0.pdf)
 * 翻译：[Wireshark实验-HTTP.md](WiresharkLab/Wireshark实验-HTTP/Wireshark实验-HTTP.md)
+* 读物：[HTTP 认证方案：storyReader$2159](WiresharkLab/Wireshark实验-HTTP/storyReader$2159.md)
 * 解答部分1：[计算机网络实验-HTTP1.pdf](WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP1.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
 * 解答部分2：[计算机网络实验-HTTP2.pdf](WiresharkLab/Wireshark实验-HTTP/计算机网络实验-HTTP2.pdf)（ [CHN-STUDENT](https://github.com/chn-student) )
 
